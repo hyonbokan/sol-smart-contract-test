@@ -1,0 +1,1 @@
+# sol-smart-contract-test
